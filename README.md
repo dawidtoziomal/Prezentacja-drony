@@ -1,5 +1,5 @@
 # Prezentacja-drony
-
-Michał - Budowa i prezentacja dronów + symulator
-Lechu - Aplikacja
+</br>
+Michał - Budowa i prezentacja dronów + symulator <br>
+Lechu - Aplikacja <br>
 Dawid - Prawo lotnicze
